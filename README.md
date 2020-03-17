@@ -10,8 +10,8 @@ https://www.w3schools.com/js/js_variables.asp
 ## Operadores
 https://www.w3schools.com/js/js_operators.asp
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators
-Automatic type conversion: http://eloquentjavascript.net/01_values.html
-Operadores de comparação e lógicos: https://www.w3schools.com/js/js_comparisons.asp
+http://eloquentjavascript.net/01_values.html
+https://www.w3schools.com/js/js_comparisons.asp
 
 ## Funções
 http://eloquentjavascript.net/03_functions.html
